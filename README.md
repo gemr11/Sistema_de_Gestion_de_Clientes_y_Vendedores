@@ -53,28 +53,35 @@ Desarrollar un sistema de gestión empresarial que permita:
 
 ## 🚀 Estructura del Proyecto
 
-proyecto_3/
-├── src/
-│ ├── modelos/
-│ │ ├── Cliente.java
-│ │ ├── Vendedor.java
-│ │ ├── Persona.java
-│ │ ├── Provincia.java
-│ │ ├── Departamento.java
-│ │ └── DB.java
-│ ├── vistas/
-│ │ ├── MantenimientoCliente.java
-│ │ ├── MantenimientoVendedor.java
-│ │ ├── ReporteCliente.java
-│ │ ├── ReporteVendedor.java
-│ │ └── Presentacion.java
-│ └── ProyFinal.java # Clase principal
-├── reportes/
-│ ├── reporte_clientes.jasper
-│ └── reporte_vendedores.jasper
-├── lib/ # Librerías JasperReports y MySQL
-├── script_bd.sql # Script de creación de base de datos
-└── compilar_ejecutar.bat
+**Carpeta raíz del proyecto:**
+
+- `src/` → Código fuente Java  
+  - `modelos/`  
+    - `Cliente.java`  
+    - `Vendedor.java`  
+    - `Persona.java`  
+    - `Provincia.java`  
+    - `Departamento.java`  
+    - `DB.java` (conexión a la base de datos)  
+  - `vistas/`  
+    - `MantenimientoCliente.java`  
+    - `MantenimientoVendedor.java`  
+    - `ReporteCliente.java`  
+    - `ReporteVendedor.java`  
+    - `Presentacion.java`  
+  - `ProyFinal.java` (clase principal)
+
+- `reportes/` → Archivos de JasperReports  
+  - `reporte_clientes.jasper`  
+  - `reporte_vendedores.jasper`
+
+- `lib/` → Librerías necesarias (JasperReports, MySQL Connector)
+
+- `script_bd.sql` → Script SQL para crear la base de datos
+
+- `compilar_ejecutar.bat` → Script de compilación y ejecución (Windows)
+
+---
 
 
 ---
