@@ -83,9 +83,6 @@ Desarrollar un sistema de gestión empresarial que permita:
 
 ---
 
-
----
-
 ## 💻 Tecnologías Utilizadas
 
 - Java 17  
