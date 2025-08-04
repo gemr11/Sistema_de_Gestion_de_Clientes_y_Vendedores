@@ -55,15 +55,13 @@ Desarrollar un sistema de gestión empresarial que permita:
 
 **Carpeta raíz del proyecto:**
 
-- `src/` → Código fuente Java  
-  - `modelos/`  
+- `src/` → Código fuente Java   
     - `Cliente.java`  
     - `Vendedor.java`  
     - `Persona.java`  
     - `Provincia.java`  
     - `Departamento.java`  
     - `DB.java` (conexión a la base de datos)  
-  - `vistas/`  
     - `MantenimientoCliente.java`  
     - `MantenimientoVendedor.java`  
     - `ReporteCliente.java`  
