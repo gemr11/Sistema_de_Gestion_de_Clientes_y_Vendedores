@@ -131,7 +131,7 @@ La presentación del proyecto incluirá:
 
 ### ⚙️ Configuración y Ejecución
 
-1. Ejecuta el script `script_bd.sql` en tu servidor MySQL  
+1. Ejecuta el script `proyecto_3_DB.sql` en tu servidor MySQL  
 2. Configura la conexión en `DB.java`  
 3. Compila el proyecto:
 
