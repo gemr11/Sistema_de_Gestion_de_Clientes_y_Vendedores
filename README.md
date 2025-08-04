@@ -102,20 +102,6 @@ Desarrollar un sistema de gestión empresarial que permita:
 - Estados de botones y entradas validados  
 - Combobox funcional para selección de códigos/descripciones  
 
----
-
-## 🎥 Sustentación
-
-La presentación del proyecto incluirá:
-
-- Estructura de la base de datos  
-- Visualización de registros existentes  
-- Recorrido por el código y clases Java  
-- Demostración de:
-  - Mantenimiento de clientes  
-  - Mantenimiento de vendedores  
-  - Generación de reportes  
-  - Validación de todos los requisitos  
 
 ---
 
